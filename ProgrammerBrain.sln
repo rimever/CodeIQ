@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q27", "Q27\Q27.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{5EC2F173-ABFA-4768-9928-2B37D24A4807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q28", "Q28\Q28.csproj", "{9DF8314F-EB26-447C-B159-DA35E4A75F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,14 @@ Global
 		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|x86.ActiveCfg = Release|Any CPU
 		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|x86.Build.0 = Release|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Debug|x86.Build.0 = Debug|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Release|x86.ActiveCfg = Release|Any CPU
+		{9DF8314F-EB26-447C-B159-DA35E4A75F88}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
