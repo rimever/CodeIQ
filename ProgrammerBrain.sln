@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRace", "ConsoleRace\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q27", "Q27\Q27.csproj", "{7567C88F-8376-43F7-AE16-52E7FE5981CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{5EC2F173-ABFA-4768-9928-2B37D24A4807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,14 @@ Global
 		{7567C88F-8376-43F7-AE16-52E7FE5981CC}.Release|Any CPU.ActiveCfg = Release|x86
 		{7567C88F-8376-43F7-AE16-52E7FE5981CC}.Release|x86.ActiveCfg = Release|x86
 		{7567C88F-8376-43F7-AE16-52E7FE5981CC}.Release|x86.Build.0 = Release|x86
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Debug|x86.Build.0 = Debug|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|x86.ActiveCfg = Release|Any CPU
+		{5EC2F173-ABFA-4768-9928-2B37D24A4807}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
